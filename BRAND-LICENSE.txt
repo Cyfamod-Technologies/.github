@@ -1,0 +1,5 @@
+Copyright © 2026 Cyfamod Technologies.
+
+The Cyfamod name, logo and brand assets in this repository are proprietary brand materials and may not be reused to imply endorsement or affiliation without permission.
+
+The organization-profile documentation and community templates may be adapted for Cyfamod-owned repositories.

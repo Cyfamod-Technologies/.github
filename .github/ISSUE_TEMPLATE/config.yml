@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report
+    url: mailto:info@cyfamod.com?subject=Security%20report%20from%20GitHub
+    about: Report suspected vulnerabilities privately. Do not open a public issue.
+  - name: Commercial project enquiry
+    url: mailto:info@cyfamod.com?subject=Project%20enquiry%20from%20GitHub
+    about: Discuss product development, cloud, server management, DevOps, security or support work.
+  - name: Cyfamod website
+    url: https://cyfamod.com
+    about: Learn more about Cyfamod Technologies and its services.
